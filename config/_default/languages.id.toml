@@ -1,13 +1,13 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "id"
+languageName = "Indonesian"
 weight = 1
 
 title = "Alif Nuryana"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  isoCode = "en"
-  displayName = "🇮🇩"
+  isoCode = "id"
+  displayName = "🇬🇧"
   rtl = false
 
   dateFormat = "2 January 2006"
@@ -18,7 +18,7 @@ title = "Alif Nuryana"
 [author]
   name = "Alif Nuryana"
   image = "img/profile1.jpg"
-  headline = "welcome to my digital playground 👋"
+  headline = "welcome to my digital playground!"
   bio = "I do things sometimes, and then I question why."
    links = [
      { email = "mailto:nuryana.alif@hotmail.com" },
