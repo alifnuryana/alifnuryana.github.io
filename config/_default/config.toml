@@ -2,7 +2,7 @@ baseURL = "https://alifnuryana.github.io/"
 defaultContentLanguage = "id"
 
 enableRobotsTXT = true
-paginate = 10
+paginate = 5
 summaryLength = 0
 
 [outputs]
