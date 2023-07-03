@@ -1,4 +1,4 @@
 ---
-title: "Welcome to Congo!"
-description: "This is a demo of adding content to the homepage."
+title: "Alif Nuryana"
+description: "Welcome to my digital playground"
 ---
